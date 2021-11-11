@@ -1,0 +1,9 @@
+/* ini adalag style Slider */
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    margin-top: -120px;
+}
